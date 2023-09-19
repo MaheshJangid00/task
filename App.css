@@ -1,0 +1,20 @@
+.adress {
+  text-align: center;
+  margin: 10px 20px;
+  display: flex;
+  color: white;
+  background-color: rgb(44, 43, 43);
+  height: 40vh;
+  font-size: 15px;
+  border: 5px solid rgb(42, 64, 70);
+  width: 80%;
+  box-shadow: 10px 10px 10px rgb(31, 28, 28);
+  
+}
+ .btn {
+  color: white;
+  background-color: rgb(6, 29, 2);
+  margin: 10px 20px;
+  box-shadow: 3px 3px 3px rgb(49, 46, 46);
+ }
+
